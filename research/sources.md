@@ -3,7 +3,7 @@
 **Topic:** Cold outreach pipeline for B2B SaaS (cold email + cold calling + multichannel outbound)
 **Curated by:** Aqil (aqilrvsb)
 **Last updated:** 2026-06-26
-**What's inside:** 10 expert practitioners → 27 YouTube transcripts + 28 newsletter/blog articles + 10 LinkedIn post dossiers (~77,000 words of primary source material).
+**What's inside:** 10 expert practitioners → 33 YouTube transcripts + 28 newsletter/blog articles + 10 LinkedIn post dossiers (~107,000 words of primary source material).
 
 ---
 
@@ -37,16 +37,16 @@ profile, current role, content dated 2024–2026) and had to pass three filters:
 
 | # | Expert | Role (proof of practice) | Sub-area | Collected |
 |---|--------|--------------------------|----------|-----------|
-| 1 | **Josh Braun** | Founder, Braun Training / Sales DNA | Email & call psychology | 6 YT + 4 articles + LI |
-| 2 | **Will Allred** | Co-founder & COO, Lavender.ai | Data-backed email copy | 1 data dossier + LI |
+| 1 | **Josh Braun** | Founder, Braun Training / Sales DNA | Email & call psychology | 7 YT + 4 articles + LI |
+| 2 | **Will Allred** | Co-founder & COO, Lavender.ai | Data-backed email copy | 1 podcast transcript + 1 data dossier + LI |
 | 3 | **Jed Mahrle** | Founder, Practical Prospecting | Multichannel sequencing | 6 YT + 2 articles + LI |
 | 4 | **Leslie Venetz** | Founder, The Sales-Led GTM Agency | Outbound process / agency | 3 articles + LI |
 | 5 | **Eric Nowoslawski** | Founder, Growth Engine X | Clay + AI cold email at scale | 6 YT + 2 articles + LI |
 | 6 | **Jordan Crawford** | Founder, Blueprint GTM | AI outbound research / data | 3 articles + LI |
 | 7 | **Nick Abraham** | Founder, Leadbird / Scrubby | Deliverability & infrastructure | 3 articles + LI |
 | 8 | **Thibaut Souyris** | Founder, SalesLabs | Multichannel sequence training | 4 articles + LI |
-| 9 | **Lead Gen Jay** (Jay Feldman) | Founder, Lead Gen Jay | Cold email systems (80k-sub channel) | 3 YT + 3 articles + LI |
-| 10 | **30MPC** (Armand Farrokh & Nick Cegelski) | Co-founders, 30 Minutes to President's Club | Cold calling / prospecting | 6 YT + 3 articles + LI |
+| 9 | **Lead Gen Jay** (Jay Feldman) | Founder, Lead Gen Jay | Cold email systems (80k-sub channel) | 4 YT + 3 articles + LI |
+| 10 | **30MPC** (Armand Farrokh & Nick Cegelski) | Co-founders, 30 Minutes to President's Club | Cold calling / prospecting | 9 YT + 3 articles + LI |
 
 *Backups (verified, kept in reserve): **Florin Tatulea** (GTM Eng @ ZoomInfo, SDR strategy) and **Tito Bohrt** (CEO, AltiSales, runs SDR teams at scale). Both are LinkedIn/newsletter-first with no owned YouTube, which is why they sit behind the primary 10 for a transcript-heavy project.*
 
@@ -59,15 +59,15 @@ profile, current role, content dated 2024–2026) and had to pass three filters:
   anti-pushy framing are a distinctive, widely-copied psychology-first approach that insiders cite constantly.
 - **Proof of practice:** Runs Braun Training / Sales DNA; sells the *Badass B2B Growth Guide* and cold-call courses.
 - **Links:** LinkedIn https://www.linkedin.com/in/josh-braun · YouTube https://www.youtube.com/channel/UCK9rfCmYHBIaC9o-qOsNtLg · Site & newsletter https://joshbraun.com · Podcast *Inside Selling*
-- **Collected:** 6 YouTube transcripts (Jun 2026, cold-call psychology) → `youtube-transcripts/josh-braun/`; 4 cornerstone cold-email articles → `other/josh-braun/`; LinkedIn dossier → `linkedin-posts/josh-braun/`.
+- **Collected:** 7 YouTube transcripts (cold-call psychology + "How to Make a Cold Call", 2026) → `youtube-transcripts/josh-braun/`; 4 cornerstone cold-email articles → `other/josh-braun/`; LinkedIn dossier → `linkedin-posts/josh-braun/`.
 
 ### 2. Will Allred — data-backed email copywriting
 - **Why high-signal:** Runs the company (Lavender) that quantified cold-email best practices across
   **billions of emails / ~50k inboxes**, so his advice is data-backed, not anecdotal.
 - **Proof of practice:** Co-founder & COO of Lavender.ai (launched the "Ora" agentic product, Jan 2025).
 - **Links:** LinkedIn https://www.linkedin.com/in/williamallred/ · Company https://www.lavender.ai · X @WillAllred117
-- **Collected:** Curated benchmark-data dossier (Operations +58% reply lift; Finance +79% lift; the 3-second-filter framework, dated Mar 2026) → `other/will-allred/`; LinkedIn dossier → `linkedin-posts/will-allred/`.
-- **Note:** No personal blog/YouTube; Lavender article bodies are SPA-routed and not directly fetchable, so his entry is curated data points + LinkedIn references (honestly sourced, see the file).
+- **Collected:** Curated benchmark-data dossier (Operations +58% reply lift; Finance +79% lift; the 3-second-filter framework, dated Mar 2026) → `other/will-allred/`; a full podcast-interview transcript (The Selling Well EP 52, ~9k words on writing better sales emails) → `youtube-transcripts/will-allred/`; LinkedIn dossier → `linkedin-posts/will-allred/`.
+- **Note:** No personal blog/YouTube channel; Lavender article bodies are SPA-routed and not directly fetchable, so his written entry is curated data points + LinkedIn references (honestly sourced, see the file) — supplemented by the podcast transcript above.
 
 ### 3. Jed Mahrle — multichannel sequencing & cold-email systems
 - **Why high-signal:** Hands-on operator who runs live A/B experiments (e.g. zero vs heavy personalization)
@@ -116,7 +116,7 @@ profile, current role, content dated 2024–2026) and had to pass three filters:
   cadence of long-form, step-by-step tactical tutorials — the richest transcript source in the set.
 - **Proof of practice:** Founder of Lead Gen Jay (training + software + DFY systems); built an Inc. 5000 agency.
 - **Links:** LinkedIn https://www.linkedin.com/in/dr-jay-feldman/ · YouTube https://www.youtube.com/@leadgenjay · Site https://leadgenjay.com
-- **Collected:** 3 YouTube transcripts → `youtube-transcripts/lead-gen-jay/`; 3 blog posts (cold email 2026 strategies, replies, agency secrets) → `other/lead-gen-jay/`; LinkedIn dossier.
+- **Collected:** 4 YouTube transcripts (incl. "Cold Email Template That Gets 600+ Leads Monthly") → `youtube-transcripts/lead-gen-jay/`; 3 blog posts (cold email 2026 strategies, replies, agency secrets) → `other/lead-gen-jay/`; LinkedIn dossier. *(2 more topical videos pending — see folder note.)*
 
 ### 10. 30MPC — Armand Farrokh & Nick Cegelski (cold calling)
 - **Why high-signal:** Run the #1 actionable B2B sales podcast (600+ episodes) plus a YouTube channel and
@@ -124,7 +124,7 @@ profile, current role, content dated 2024–2026) and had to pass three filters:
   phone-led outbound.
 - **Proof of practice:** Armand ex-VP Sales @ Pave ($0→$13M+ ARR); Nick a 3x #1 enterprise seller.
 - **Links:** Armand https://www.linkedin.com/in/armand-farrokh · Nick https://www.linkedin.com/in/nickcegelski/ · YouTube https://www.youtube.com/@30MPC · Newsletter https://www.30mpc.com · Podcast *30 Minutes to President's Club*
-- **Collected:** 6 YouTube transcripts (cold calling / negotiation, 2026) → `youtube-transcripts/30mpc/`; 3 newsletter issues (data-backed cold-email formula, subject lines, "is cold calling dead", 2024–2025) → `other/30mpc/`; LinkedIn dossier (both founders).
+- **Collected:** 9 YouTube transcripts (incl. a 52-min cold-calling masterclass, live cold calls, "get past the gatekeeper", + recent, 2024–2026) → `youtube-transcripts/30mpc/`; 3 newsletter issues (data-backed cold-email formula, subject lines, "is cold calling dead", 2024–2025) → `other/30mpc/`; LinkedIn dossier (both founders).
 
 ---
 
@@ -132,7 +132,9 @@ profile, current role, content dated 2024–2026) and had to pass three filters:
 
 - **YouTube transcripts** — pulled programmatically with `yt-dlp` (to resolve channels + list recent and
   topical uploads) and `youtube-transcript-api` (to fetch caption tracks). 27 transcripts captured before
-  hitting YouTube's IP rate limit (HTTP 429); the remainder are documented per-folder.
+  hitting YouTube's IP rate limit (HTTP 429); the remaining topical transcripts were then pulled through
+  Firecrawl via a transcript-rendering site (a different network path), bringing the total to **33**. Two
+  Lead Gen Jay videos remain pending (Firecrawl free-credit limit) and are documented per-folder — no fabrication.
 - **Newsletters / blogs** — scraped with Firecrawl (markdown, main-content only). Each file carries a
   header with author, source URL, publish date, and source type.
 - **LinkedIn** — Firecrawl (and most automated scrapers) are blocked at the provider level for
